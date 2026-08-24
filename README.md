@@ -1,5 +1,5 @@
 # Ex04 Simple Calculator - React Project
-## Date:24-03-2026
+## Date:24-08-2026
 ## Name:RACHITHA U 
 ## Reg No :212225220078
 
